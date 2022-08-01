@@ -1,0 +1,40 @@
+{
+    "userProfileId": 105759869,
+    "statisticsStartDate": "2022-07-25",
+    "statisticsEndDate": "2022-07-31",
+    "allMetrics": {
+        "metricsMap": {
+            "WELLNESS_TOTAL_STEPS": [
+                {
+                    "value": 9685.0,
+                    "calendarDate": "2022-07-25"
+                },
+                {
+                    "value": 11966.0,
+                    "calendarDate": "2022-07-26"
+                },
+                {
+                    "value": 8543.0,
+                    "calendarDate": "2022-07-27"
+                },
+                {
+                    "value": 9375.0,
+                    "calendarDate": "2022-07-28"
+                },
+                {
+                    "value": 8551.0,
+                    "calendarDate": "2022-07-29"
+                },
+                {
+                    "value": 12655.0,
+                    "calendarDate": "2022-07-30"
+                },
+                {
+                    "value": 21067.0,
+                    "calendarDate": "2022-07-31"
+                }
+            ]
+        }
+    },
+    "groupedMetrics": null
+}

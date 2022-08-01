@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 346,
+        "order": 0,
+        "title_key": "title_respiration_widget",
+        "desc_key": "desc_respiration_widget",
+        "url": "widgets/respiration/Respiration",
+        "linkUrl": "/respiration",
+        "imageName": "respiration-widget.png",
+        "iconClass": "icon-respiration",
+        "states": [
+            {
+                "id": 492,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 570,
+                        "name": "respiration",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 493,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 571,
+                        "name": "respiration",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 31,
+        "order": 0,
+        "title_key": "title_calendar_widget",
+        "desc_key": "desc_calendar_widget",
+        "url": "widgets/calendar/Calendar",
+        "linkUrl": "/calendar",
+        "imageName": "calendar-widget.jpg",
+        "iconClass": "icon-calendar",
+        "states": [
+            {
+                "id": 57,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 59,
+                        "name": "calendarSmall",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 81,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 81,
+                        "name": "calendarMonthView",
+                        "height": 3
+                    },
+                    {
+                        "id": 101,
+                        "name": "calendarWeekView",
+                        "height": 3
+                    },
+                    {
+                        "id": 102,
+                        "name": "calendarUpcomingView",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 163,
+        "order": 0,
+        "title_key": "title_floors_ascended_widget",
+        "desc_key": "desc_floors_ascended_widget",
+        "url": "widgets/floors_ascended/FloorsAscended",
+        "linkUrl": "/dailySummary/timeline",
+        "imageName": "floors-ascended-widget.png",
+        "iconClass": "icon-floors-climbed",
+        "states": [
+            {
+                "id": 285,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 305,
+                        "name": "floorsAscendedChart",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 286,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 306,
+                        "name": "floorsAscendedSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 25,
+        "order": 0,
+        "title_key": "title_weight_widget",
+        "desc_key": "desc_weight_widget",
+        "url": "widgets/weight/Weight",
+        "linkUrl": "/weight",
+        "imageName": "weight-widget.jpg",
+        "iconClass": "icon-weight",
+        "states": [
+            {
+                "id": 50,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 52,
+                        "name": "weightSmall",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 82,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 82,
+                        "name": "weightLarge",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 5,
+        "order": 0,
+        "title_key": "title_devices_widget",
+        "desc_key": "desc_devices_widget",
+        "url": "widgets/device/Devices",
+        "linkUrl": "/devices",
+        "imageName": "devices-widget.jpg",
+        "iconClass": "icon-devices",
+        "states": [
+            {
+                "id": 8,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 9,
+                        "name": "device",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 10,
+                        "name": "device",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 352,
+        "order": 0,
+        "title_key": "title_powerguide_widget",
+        "desc_key": "",
+        "url": "widgets/powerguide/PowerGuide",
+        "linkUrl": "/power-guidance",
+        "imageName": "powerguide-widget.png",
+        "iconClass": "icon-powerguide",
+        "states": [
+            {
+                "id": 507,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 584,
+                        "name": "powerGuideLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 508,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 585,
+                        "name": "powerGuideSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 351,
+        "order": 0,
+        "title_key": "title_solar_charge_widget",
+        "desc_key": "",
+        "url": "widgets/solarcharge/SolarCharge",
+        "linkUrl": "/solar-charge",
+        "imageName": "solarcharge-widget.png",
+        "iconClass": "icon-solarcharge",
+        "states": [
+            {
+                "id": 505,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 582,
+                        "name": "solarChargeLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 506,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 583,
+                        "name": "solarChargeSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 341,
+        "order": 0,
+        "title_key": "title_pulse_ox_acclimation_widget",
+        "desc_key": "desc_pulse_ox_widget",
+        "url": "widgets/pulse_ox_acclimation/PulseOxAcclimation",
+        "linkUrl": "/pulse-ox-acclimation",
+        "imageName": "pulse-ox-widget.jpg",
+        "iconClass": "icon-pulse-ox",
+        "states": [
+            {
+                "id": 481,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 541,
+                        "name": "pulseOxAcclimation",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 483,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 543,
+                        "name": "smallPulseOxAcclimation",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 41,
+        "order": 0,
+        "title_key": "title_segment_widget",
+        "desc_key": "desc_segment_widget",
+        "url": "widgets/segment/Segment",
+        "linkUrl": "/segments",
+        "imageName": "segments-widget.jpg",
+        "iconClass": "icon-segments",
+        "states": [
+            {
+                "id": 83,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 83,
+                        "name": "smallSegment",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 181,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 181,
+                        "name": "segmentList",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 181,
+        "order": 0,
+        "title_key": "title_insights_widget",
+        "desc_key": "desc_insights_widget",
+        "url": "widgets/insights/Insights",
+        "linkUrl": "/insights",
+        "imageName": "insights-widget.png",
+        "iconClass": "icon-insights",
+        "states": [
+            {
+                "id": 301,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 341,
+                        "name": "insightsLargeState",
+                        "height": 3
+                    },
+                    {
+                        "id": 384,
+                        "name": "insightsDemoCompareState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 302,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 342,
+                        "name": "insightsSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 30,
+        "order": 0,
+        "title_key": "title_training_plan_widget",
+        "desc_key": "desc_training_plan_widget",
+        "url": "widgets/training_plan/TrainingPlan",
+        "linkUrl": "/training-plan",
+        "imageName": "training-plan-crop.jpg",
+        "iconClass": "icon-training-plans",
+        "states": [
+            {
+                "id": 56,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 58,
+                        "name": "trainingPlanSmall",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 463,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 523,
+                        "name": "trainingPlanLarge",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 9,
+        "order": 0,
+        "title_key": "title_step_summary_widget",
+        "desc_key": "desc_step_summary_widget",
+        "url": "widgets/step_summary/StepSummary",
+        "linkUrl": "/dailySummary/steps",
+        "imageName": "steps-widget.jpg",
+        "iconClass": "icon-steps-1",
+        "states": [
+            {
+                "id": 15,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 17,
+                        "name": "step_summary",
+                        "height": 3
+                    },
+                    {
+                        "id": 18,
+                        "name": "step_list",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 19,
+                        "name": "step_summary",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 26,
+        "order": 0,
+        "title_key": "title_personal_records_widget",
+        "desc_key": "desc_personal_records_widget",
+        "url": "widgets/prs/PersonalRecords",
+        "linkUrl": "/trophy-case",
+        "imageName": "personal-records-widget.png",
+        "iconClass": "icon-personal-records",
+        "states": [
+            {
+                "id": 51,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 53,
+                        "name": "smallPersonalRecords",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 161,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 161,
+                        "name": "personalRecords",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 349,
+        "order": 0,
+        "title_key": "title_training_readiness_widget",
+        "desc_key": "desc_training_readiness_widget",
+        "url": "widgets/training_readiness/TrainingReadiness",
+        "linkUrl": "/training-readiness",
+        "imageName": "training-readiness-widget.png",
+        "iconClass": "icon-training-readiness",
+        "states": [
+            {
+                "id": 501,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 578,
+                        "name": "trainingReadinessLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 502,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 579,
+                        "name": "trainingReadinessSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 162,
+        "order": 0,
+        "title_key": "title_intensity_minutes_widget",
+        "desc_key": "desc_intensity_minutes_widget",
+        "url": "widgets/intensity_minutes/IntensityMinutes",
+        "linkUrl": "/dailySummary/intensity-minutes",
+        "imageName": "intensity-minutes-widget.png",
+        "iconClass": "icon-intensity-minutes",
+        "states": [
+            {
+                "id": 283,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 303,
+                        "name": "intensityMinutesLarge",
+                        "height": 3
+                    },
+                    {
+                        "id": 576,
+                        "name": "intensityMinutesDaily",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 284,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 304,
+                        "name": "intensityMinutesSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 1,
+        "order": 0,
+        "title_key": "title_activities_widget",
+        "desc_key": "desc_activities_widget",
+        "url": "widgets/activity/Activities",
+        "linkUrl": "/activities",
+        "imageName": "activities-widget.jpg",
+        "iconClass": "icon-activities",
+        "states": [
+            {
+                "id": 1,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 1,
+                        "name": "recentActivity",
+                        "height": 3
+                    },
+                    {
+                        "id": 2,
+                        "name": "activityList",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 3,
+                        "name": "recentActivity",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 27,
+        "order": 0,
+        "title_key": "title_course_widget",
+        "desc_key": "desc_course_widget",
+        "url": "widgets/course/Courses",
+        "linkUrl": "/courses",
+        "imageName": "courses-widget.png",
+        "iconClass": "icon-courses",
+        "states": [
+            {
+                "id": 52,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 54,
+                        "name": "smallCourse",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 141,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 141,
+                        "name": "courses",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 161,
+        "order": 0,
+        "title_key": "title_heart_rate_widget",
+        "desc_key": "desc_heart_rate_widget",
+        "url": "widgets/heart_rate/HeartRate",
+        "linkUrl": "/dailySummary/timeline",
+        "imageName": "heart-rate-widget.png",
+        "iconClass": "icon-heart",
+        "states": [
+            {
+                "id": 281,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 301,
+                        "name": "heartRateLarge",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 282,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 302,
+                        "name": "heartRateSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 347,
+        "order": 0,
+        "title_key": "title_solar_intensity_widget",
+        "desc_key": "desc_solar_intensity_widget",
+        "url": "widgets/solar/SolarIntensity",
+        "linkUrl": "/solarIntensity",
+        "imageName": "solar-intensity-widget.png",
+        "iconClass": "icon-solar-intensity",
+        "states": [
+            {
+                "id": 494,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 572,
+                        "name": "solarIntensityLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 495,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 573,
+                        "name": "solarIntensitySmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 7,
+        "order": 0,
+        "title_key": "title_news_feed_widget",
+        "desc_key": "desc_news_feed_widget",
+        "url": "widgets/news_feed/NewsFeed",
+        "linkUrl": "/newsfeed",
+        "imageName": "news-feed-widget.jpg",
+        "iconClass": "icon-newsfeed",
+        "states": [
+            {
+                "id": 11,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 12,
+                        "name": "activityFeed",
+                        "height": 3
+                    },
+                    {
+                        "id": 13,
+                        "name": "leaderboard",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 14,
+                        "name": "newsfeedSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 81,
+        "order": 0,
+        "title_key": "title_gear_tracking_widget",
+        "desc_key": "desc_gear_tracking_widget",
+        "url": "widgets/gear_tracking/GearTracking",
+        "linkUrl": "/gear",
+        "imageName": "gear-widget.png",
+        "iconClass": "icon-steps",
+        "states": [
+            {
+                "id": 201,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 201,
+                        "name": "gear",
+                        "height": 2
+                    }
+                ]
+            },
+            {
+                "id": 202,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 202,
+                        "name": "smallGear",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 281,
+        "order": 0,
+        "title_key": "title_bodybattery_widget",
+        "desc_key": "desc_bodybattery_widget",
+        "url": "widgets/bodybattery/BodyBattery",
+        "linkUrl": "/dailySummary/body-battery",
+        "imageName": "bodybattery-widget.jpg",
+        "iconClass": null,
+        "states": [
+            {
+                "id": 421,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 481,
+                        "name": "bodyBattery",
+                        "height": 3
+                    },
+                    {
+                        "id": 482,
+                        "name": "bodyBatteryTimeline",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 422,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 483,
+                        "name": "bodyBattery",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 34,
+        "order": 0,
+        "title_key": "title_calories_widget",
+        "desc_key": "desc_calories_widget",
+        "url": "widgets/calories/Calories",
+        "linkUrl": "/dailySummary/calories",
+        "imageName": "calories-widget.jpg",
+        "iconClass": "icon-calories",
+        "states": [
+            {
+                "id": 61,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 63,
+                        "name": "caloriesSummary",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 64,
+                        "name": "caloriesSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 14,
+        "order": 0,
+        "title_key": "title_reports_widget",
+        "desc_key": "desc_reports_widget",
+        "url": "widgets/report/Reports",
+        "linkUrl": "/report",
+        "imageName": "reports-widget.jpg",
+        "iconClass": "icon-reports",
+        "states": [
+            {
+                "id": 22,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 25,
+                        "name": "reports",
+                        "height": 2
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 26,
+                        "name": "reportsSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 24,
+        "order": 0,
+        "title_key": "title_goals_widget",
+        "desc_key": "desc_goals_widget",
+        "url": "widgets/goal/Goals",
+        "linkUrl": "/goals",
+        "imageName": "goals-widget.png",
+        "iconClass": "icon-goals",
+        "states": [
+            {
+                "id": 48,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 50,
+                        "name": "goal",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 103,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 105,
+                        "name": "goal",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 348,
+        "order": 0,
+        "title_key": "title_health_snapshot_widget",
+        "desc_key": "desc_health_snapshot_widget",
+        "url": "widgets/health_snapshot/HealthSnapshot",
+        "linkUrl": "/health-snapshots",
+        "imageName": "health-snapshot-widget.png",
+        "iconClass": "icon-health-snapshot-list",
+        "states": [
+            {
+                "id": 499,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 574,
+                        "name": "healthSnapshotLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 500,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 575,
+                        "name": "healthSnapshotSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 12,
+        "order": 0,
+        "title_key": "title_badges_widget",
+        "desc_key": "desc_badges_widget",
+        "url": "widgets/badges/Badges",
+        "linkUrl": "/trophy-case",
+        "imageName": "badges-widget.jpg",
+        "iconClass": "icon-badges",
+        "states": [
+            {
+                "id": 19,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 22,
+                        "name": "badges",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 23,
+                        "name": "smallBadges",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 28,
+        "order": 0,
+        "title_key": "title_groups_widget",
+        "desc_key": "desc_groups_widget",
+        "url": "widgets/groups/Groups",
+        "linkUrl": "/groups",
+        "imageName": "groups-widget.png",
+        "iconClass": "icon-people-3",
+        "states": [
+            {
+                "id": 101,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 103,
+                        "name": "groupsLarge",
+                        "height": 3
+                    },
+                    {
+                        "id": 182,
+                        "name": "activityFeed",
+                        "height": 3
+                    },
+                    {
+                        "id": 183,
+                        "name": "leaderboard",
+                        "height": 3
+                    },
+                    {
+                        "id": 261,
+                        "name": "challengeLeaderboard",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 104,
+                        "name": "groups",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 342,
+        "order": 0,
+        "title_key": "title_pacepro_widget",
+        "desc_key": "desc_pacepro_widget",
+        "url": "widgets/pacepro/PacePro",
+        "linkUrl": "/pacepro",
+        "imageName": "pacepro-widget.png",
+        "iconClass": "icon-pacepro",
+        "states": [
+            {
+                "id": 484,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 562,
+                        "name": "paceProLargeState",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 485,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 563,
+                        "name": "paceProSmallState",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 29,
+        "order": 0,
+        "title_key": "title_workouts_widget",
+        "desc_key": "desc_workouts_widget",
+        "url": "widgets/workout/Workouts",
+        "linkUrl": "/workouts",
+        "imageName": "workouts-widget.png",
+        "iconClass": "icon-workouts",
+        "states": [
+            {
+                "id": 55,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 57,
+                        "name": "workoutSmall",
+                        "height": 1
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 106,
+                        "name": "workout",
+                        "height": 3
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 33,
+        "order": 0,
+        "title_key": "title_challenge_widget",
+        "desc_key": "desc_challenge_widget",
+        "url": "widgets/challenge/Challenge",
+        "linkUrl": "/challenge",
+        "imageName": "challenges-widget.jpg",
+        "iconClass": "icon-challenges",
+        "states": [
+            {
+                "id": 59,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 61,
+                        "name": "challengeLarge",
+                        "height": 3
+                    },
+                    {
+                        "id": 262,
+                        "name": "switchChallengeLarge",
+                        "height": 3
+                    },
+                    {
+                        "id": 321,
+                        "name": "challengeGroupLeaderboard",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 60,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 62,
+                        "name": "challengeSmall",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 221,
+        "order": 0,
+        "title_key": "title_stress_widget",
+        "desc_key": "desc_stress_widget",
+        "url": "widgets/stress/Stress",
+        "linkUrl": "/dailySummary/stress",
+        "imageName": "stress-widget.jpg",
+        "iconClass": "icon-stress",
+        "states": [
+            {
+                "id": 341,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 381,
+                        "name": "stressTimeline",
+                        "height": 3
+                    },
+                    {
+                        "id": 382,
+                        "name": "stressBalance",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 342,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 383,
+                        "name": "stressTimeline",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 345,
+        "order": 0,
+        "title_key": "title_pulse_ox_widget",
+        "desc_key": "desc_pulse_ox_widget",
+        "url": "widgets/pulse_ox/PulseOx",
+        "linkUrl": "/pulse_ox",
+        "imageName": "pulse-ox-widget.png",
+        "iconClass": "icon-pulse-ox",
+        "states": [
+            {
+                "id": 490,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 568,
+                        "name": "pulseOx",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 491,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 569,
+                        "name": "pulseOx",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 321,
+        "order": 0,
+        "title_key": "title_hydration_widget",
+        "desc_key": "desc_hydration_widget",
+        "url": "widgets/hydration/Hydration",
+        "linkUrl": "/dailySummary/hydration",
+        "imageName": "hydration-widget.png",
+        "iconClass": "icon-hydration",
+        "states": [
+            {
+                "id": 461,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 521,
+                        "name": "hydration",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 462,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 522,
+                        "name": "hydration",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    },
+    {
+        "id": 101,
+        "order": 0,
+        "title_key": "title_sleep_widget",
+        "desc_key": "desc_sleep_widget",
+        "url": "widgets/sleep/SleepDemo",
+        "linkUrl": "/dailySummary/sleep",
+        "imageName": "sleep-widget.jpg",
+        "iconClass": "icon-sleep",
+        "states": [
+            {
+                "id": 221,
+                "name": "large-state",
+                "views": [
+                    {
+                        "id": 221,
+                        "name": "sleepLevels",
+                        "height": 3
+                    },
+                    {
+                        "id": 222,
+                        "name": "sleepMovement",
+                        "height": 3
+                    },
+                    {
+                        "id": 421,
+                        "name": "sleepSummary",
+                        "height": 3
+                    },
+                    {
+                        "id": 561,
+                        "name": "sleepPulseOx",
+                        "height": 3
+                    },
+                    {
+                        "id": 564,
+                        "name": "sleepRespiration",
+                        "height": 3
+                    },
+                    {
+                        "id": 577,
+                        "name": "sleepScore",
+                        "height": 3
+                    }
+                ]
+            },
+            {
+                "id": 222,
+                "name": "small-state",
+                "views": [
+                    {
+                        "id": 223,
+                        "name": "sleepLevels",
+                        "height": 1
+                    }
+                ]
+            }
+        ],
+        "args": {}
+    }
+]

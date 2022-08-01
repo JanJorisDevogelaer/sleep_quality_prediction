@@ -1,0 +1,216 @@
+## Request headers
+
+# Sleep data
+
+*general*
+Request URL: https://connect.garmin.com/wellness-service/wellness/dailySleepData/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31&nonSleepBufferMinutes=60
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.2.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*in daily summary*
+Request URL: https://connect.garmin.com/wellness-service/wellness/dailySleepData/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-30
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.2.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request headers*
+:authority: connect.garmin.com
+:method: GET
+:path: /wellness-service/wellness/dailySleepData/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31&nonSleepBufferMinutes=60
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659295892708%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659297692728$ses_id:1659295713047%3Bexp-session$_pn:3%3Bexp-session; SameSite=None
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/sleep/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+*in daily summary*
+:authority: connect.garmin.com
+:method: GET
+:path: /wellness-service/wellness/dailySleepData/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkzMDI5NTUsImlhdCI6MTY1OTI5OTM1NSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiI2ZWQyZWIyMC1kNzk5LTRkMDUtYTNjYi02ZmYxZDBhNjVhOTUiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6IjQ5MWUwNDJhZjc3ZjRlODFjOWNmZWE5ZTRmM2RjMGVhOGJhODJiNjJiZjZhNTZiZDFhYWVlYzg3MTQzNDE2ZmUifQ.PXrQlTTJ_CcxGEdBxT3Ytbtavrdx4taslWsRQ5b0DUzHcN3cMZbtXpt3ahMexULUn3t6iWmk1kywmvZIryaJ_Y00yPCBv6b0uxe3vaHJKAeRmw10HX79hU5lWhEHhSWkEhtS_S2gvJkLGT2uuuGlX8FAQjDx2NvD4qWAJYbXJ-Gm3zJWu_JOmP8fkLEjxdMOK7x5LE-r3qLEXioBDrRgzebIM55MfXiqRufjm7cOjjuwo_80Z5UBnK2BPp6Zml3Gt_T7fqL8uRBhEW7sjj7hbIPtiNf3PGLVasB_N9AsfVCt2naJHiFQ9ADZE6nVQa2UwmKR3EU444SAnuI3hbgziQ
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; G_ENABLED_IDPS=google; JWT_FGP=c14a39be-cca5-4db2-9177-973fa259ce57; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659299644066%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:4$_ss:0$_st:1659301444102$ses_id:1659299369144%3Bexp-session$_pn:2%3Bexp-session; SameSite=None; ADRUM_BTa=R:58|g:537f692b-a278-439b-8bc3-c9b36bdd13f5|n:garmin_869629ee-d273-481d-b5a4-f4b0a8c4d5a3; ADRUM_BT1=R:58|i:137294|e:480
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-30
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+# Heart rate data
+
+*general*
+Request URL: https://connect.garmin.com/wellness-service/wellness/dailyHeartRate/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.3.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request headers*
+:authority: connect.garmin.com
+:method: GET
+:path: /wellness-service/wellness/dailyHeartRate/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659296355939%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659298155973$ses_id:1659295713047%3Bexp-session$_pn:6%3Bexp-session; SameSite=None; ADRUM_BTa=R:58|g:09db93fb-3339-4b17-b6e5-67d402c27104|n:garmin_869629ee-d273-481d-b5a4-f4b0a8c4d5a3; ADRUM_BT1=R:58|i:139012|e:20
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+# Steps data
+
+*general
+Request URL: https://connect.garmin.com/wellness-service/wellness/dailySummaryChart/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.3.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request headers*
+:authority: connect.garmin.com
+:method: GET
+:path: /wellness-service/wellness/dailySummaryChart/cab7569a-0f55-4236-ad4f-ab6a040e52cd?date=2022-07-31
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659296355939%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659298155973$ses_id:1659295713047%3Bexp-session$_pn:6%3Bexp-session; SameSite=None; ADRUM_BTa=R:58|g:b144c38d-0d08-4cec-8323-01eadb490561|n:garmin_869629ee-d273-481d-b5a4-f4b0a8c4d5a3; ADRUM_BT1=R:58|i:137307|e:25
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+# Steps map
+
+*general*
+Request URL: https://connect.garmin.com/userstats-service/wellness/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?fromDate=2022-07-25&untilDate=2022-07-31&metricId=29
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.3.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request headers*
+:authority: connect.garmin.com
+:method: GET
+:path: /userstats-service/wellness/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?fromDate=2022-07-25&untilDate=2022-07-31&metricId=29
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659296355939%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659298155973$ses_id:1659295713047%3Bexp-session$_pn:6%3Bexp-session; SameSite=None; ADRUM_BTa=R:58|g:b144c38d-0d08-4cec-8323-01eadb490561|n:garmin_869629ee-d273-481d-b5a4-f4b0a8c4d5a3; ADRUM_BT1=R:58|i:137307|e:25
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+# Calory map
+
+*general*
+Request URL: https://connect.garmin.com/userstats-service/wellness/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?fromDate=2022-07-24&untilDate=2022-07-30&metricId=41
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.3.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request headers*
+:authority: connect.garmin.com
+:method: GET
+:path: /userstats-service/wellness/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?fromDate=2022-07-24&untilDate=2022-07-30&metricId=41
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_gdpr_prefs=0,1,2:; notice_poptime=1619726400000; notice_preferences=2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659296355939%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659298155973$ses_id:1659295713047%3Bexp-session$_pn:6%3Bexp-session; SameSite=None; ADRUM_BTa=R:58|g:b144c38d-0d08-4cec-8323-01eadb490561|n:garmin_869629ee-d273-481d-b5a4-f4b0a8c4d5a3; ADRUM_BT1=R:58|i:137307|e:25
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0
+
+# Summary data
+
+*general*
+Request URL: https://connect.garmin.com/usersummary-service/usersummary/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?calendarDate=2022-07-31
+Request Method: GET
+Status Code: 200 
+Remote Address: 104.17.3.69:443
+Referrer Policy: strict-origin-when-cross-origin
+
+*request data*
+:authority: connect.garmin.com
+:method: GET
+:path: /usersummary-service/usersummary/daily/cab7569a-0f55-4236-ad4f-ab6a040e52cd?calendarDate=2022-07-31
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpLW9hdXRoLXNpZ25lci1wcm9kLTIwMjIifQ.eyJzY29wZSI6WyJBVFBfUkVBRCIsIkFUUF9XUklURSIsIkNPTk5FQ1RfUkVBRCIsIkNPTk5FQ1RfV1JJVEUiLCJHSFNfSElEIiwiR0hTX1JFR0lTVFJBVElPTiIsIkdIU19TQU1EIiwiR09MRl9BUElfUkVBRCIsIkdPTEZfQVBJX1dSSVRFIiwiSU5TSUdIVFNfUkVBRCIsIklOU0lHSFRTX1dSSVRFIl0sImlzcyI6Imh0dHBzOi8vZGlhdXRoLmdhcm1pbi5jb20iLCJleHAiOjE2NTkyOTkzMjEsImlhdCI6MTY1OTI5NTcyMSwiZ2FybWluX2d1aWQiOiJlN2IxYjM5Ny1iNjUyLTRjZmUtOWI5ZS01Y2FjZTRjMjRhYzYiLCJqdGkiOiJmMTgxMjk0ZS1iYTg3LTRmMjktOGY0OS00M2VmZjIzOTBjNDYiLCJjbGllbnRfaWQiOiJDT05ORUNUX1dFQiIsImZncCI6ImYxNzA3ZjQzYjk0NzRjOGU5MWMzMjgwYTRhZWIwYzFiYzg3ZjNhYTdhYjBiODQ5NDJlMmZmN2E4ZGE1M2JkMTcifQ.JJLspo_BKMhPwhF6Mcqyvd6qOVrr1fZpUR1Gfg6ouVfFXqTsWZN7C5diIoQUK0vezGlZKpnwwEagltvYl35zBJBEsVjqMcI8l-KeH9npvrsj-JzUfOOVQiV46RzlOmwh88FwWnSfTY-T0Wn1B1E2ezF1wRrXJUNPXVRBr8GgbS7AocBxGK1H0Efv0_r4jtafs-CO8bYkbwWeMCH02Acp5BApSj3pxthYet2bfvNh3raZEqZlhR_DNk325_2B6M7BJxV9535ejZm8J_o1kSg8vXQa0wSLDnSr5Rbn8kLexJie9Y-szIqMbYX777yKbE1u-VxyjZHBx7HkugdNdIhZ-Q
+cookie: notice_preferences=2:; notice_poptime=1619726400000; notice_gdpr_prefs=0,1,2:; cmapi_cookie_privacy=permit 1,2,3; _gcl_au=1.1.471794257.1656330917; _fbp=fb.1.1656330916965.36313228; ku1-vid=a68732ad-0c88-4994-76ab-25155c33ffe6; cmapi_gtm_bl=; _ga=GA1.2.1172439322.1656330917; _hjSessionUser_1939392=eyJpZCI6ImM0YjhhMWRiLTE0OTgtNWQxZi1hMzZlLTIzOTAyYjc4Njc3MyIsImNyZWF0ZWQiOjE2NTYzNDQ3NjcyMTQsImV4aXN0aW5nIjpmYWxzZX0=; _ga_K5X2MQK80V=GS1.1.1656355698.2.0.1656355698.0; __cflb=02DiuJLbVZHipNWxN8xjNziif9XwiLsQe8sLsjowPAoVn; GarminUserPrefs=nl-NL; notice_behavior=implied,eu; _gid=GA1.2.1504997082.1659295713; GARMIN-SSO=1; GarminNoCache=true; GARMIN-SSO-GUID=371514894805DE18EE35CD42CF10A16F81233527; GARMIN-SSO-CUST-GUID=e7b1b397-b652-4cfe-9b9e-5cace4c24ac6; SESSIONID=MDRkNTMzOTgtYTFmNS00YTUzLWFkNTgtMjg0OWQ1ZjdjNDFk; JWT_FGP=be8e8342-d86a-4870-9520-db0a82f39a0b; G_ENABLED_IDPS=google; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1659296355939%7Cconsent:true; utag_main=v_id:0181a5040da900096371418021640306f001d06700a47$_sn:3$_ss:0$_st:1659298155973$ses_id:1659295713047%3Bexp-session$_pn:6%3Bexp-session; SameSite=None
+di-backend: connectapi.garmin.com
+nk: NT
+referer: https://connect.garmin.com/modern/daily-summary/2022-07-31
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+x-app-ver: 4.57.2.0

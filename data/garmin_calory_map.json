@@ -1,0 +1,40 @@
+{
+    "userProfileId": 105759869,
+    "statisticsStartDate": "2022-07-24",
+    "statisticsEndDate": "2022-07-30",
+    "allMetrics": {
+        "metricsMap": {
+            "COMMON_TOTAL_CALORIES": [
+                {
+                    "value": 2751.0,
+                    "calendarDate": "2022-07-24"
+                },
+                {
+                    "value": 2616.0,
+                    "calendarDate": "2022-07-25"
+                },
+                {
+                    "value": 2967.0,
+                    "calendarDate": "2022-07-26"
+                },
+                {
+                    "value": 2570.0,
+                    "calendarDate": "2022-07-27"
+                },
+                {
+                    "value": 2678.0,
+                    "calendarDate": "2022-07-28"
+                },
+                {
+                    "value": 2589.0,
+                    "calendarDate": "2022-07-29"
+                },
+                {
+                    "value": 2860.0,
+                    "calendarDate": "2022-07-30"
+                }
+            ]
+        }
+    },
+    "groupedMetrics": null
+}
